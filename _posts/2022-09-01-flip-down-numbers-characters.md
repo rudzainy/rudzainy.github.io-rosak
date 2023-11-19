@@ -6,8 +6,8 @@ description:
 image:
 category:
 tags: [design,figma]
-published: false
-sitemap: false
+published: true
+sitemap: true
 ---
 
 ![Cover image for Flip Down Numbers & Characters](https://www.rudzainy.my/img/flip-number-file-cover.png "Cover image for Flip Down Numbers & Characters")
@@ -20,4 +20,4 @@ While designing a flight booking app, I needed to find resources for flipboards 
 
 I started by adding alphabet characters and a few other symbols to the existing flipboard design. I used the same font family as the numbers too maintain design consistency. Once I was satisfied with the results, I republished the flipboard and made it available to other designers.
 
-[Open in Figma Community](https://www.figma.com/community/file/1126796101932547849){: .btn }
+[Open in Figma Community](https://www.figma.com/community/file/1126796101932547849)
