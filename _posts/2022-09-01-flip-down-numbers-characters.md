@@ -3,7 +3,7 @@ layout: post
 title: Flip Down Numbers & Characters
 date: 2022-09-01 04:20 +0800
 description:
-image: https://www.rudzainy.my/img/flip-number-file-cover.png
+image: https://blog.rudzainy.my/blog/wp-content/uploads/2023/flip-number-file-cover.png
 category: Work
 tags: [design,figma]
 published: true
