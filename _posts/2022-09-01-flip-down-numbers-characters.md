@@ -3,14 +3,12 @@ layout: post
 title: Flip Down Numbers & Characters
 date: 2022-09-01 04:20 +0800
 description:
-image:
-category:
+image: https://www.rudzainy.my/img/flip-number-file-cover.png
+category: Work
 tags: [design,figma]
 published: true
 sitemap: true
 ---
-
-![Cover image for Flip Down Numbers & Characters](https://www.rudzainy.my/img/flip-number-file-cover.png "Cover image for Flip Down Numbers & Characters")
 
 | Project | Flip Down Numbers & Characters (Figma Community) |
 | Technology Stack | Figma |

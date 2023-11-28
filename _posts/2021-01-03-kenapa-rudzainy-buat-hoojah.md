@@ -4,7 +4,7 @@ title: Kenapa Rudzainy Buat Hoojah
 date: 2021-01-03 08:46 +0800
 description:
 image:
-category:
+category: Work
 tags: [hoojah, ruby on rails, podcast]
 published: true
 sitemap: true
