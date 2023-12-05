@@ -10,13 +10,7 @@ published: true
 sitemap: true
 ---
 
-| Project | JKM Web Portal |
-| Responsibilities | Design & code HTML/CSS. |
-| Technology Stack | Adobe Photoshop, Joomla 1.5, Macromedia Dreamweaver |
-| Year | 2008 | 
-| Behance | [View in Behance](https://www.behance.net/gallery/175210039/Case-Study-JKM) |
-
-![Wireframe](https://www.rudzainy.my/designs/jkm-ux-review/jkm.jpg)
+![Wireframe](/assets/img/portfolio/jkm.jpg)
 
 In 2008, I joined a local web development company as a web designer. I was just starting out in my career and had only just begun to explore the world of web design anddevelopment. My general role was to design UI and convert it to HTML & CSS. At that time, web development using open source CMS was on the rise in Malaysia. PHP and WAMP/LAMP stacks were popular backend solutions, and Joomla! 1.5 was the most commonly used content management system (CMS). The company did not have any designers on staff, so I worked closely with the developers to create their website and create mockups for each page.
 

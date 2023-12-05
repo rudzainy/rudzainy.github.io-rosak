@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 I do UI/UX stuff. Sometimes I do frontend dev stuff & theatre stuff.<br />
