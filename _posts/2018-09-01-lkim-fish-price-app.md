@@ -5,7 +5,7 @@ date: 2018-09-01 08:30 +0800
 description: Mobile app for Lembaga Kemajuan Ikan Malaysia
 image: https://blog.rudzainy.my/blog/wp-content/uploads/2022/01/Screenshot-2022-01-27-at-3.11.13-PM-1-2048x890.jpg
 category: Work
-tags: [react native,uiux]
+tags: [react native,uiux,collaboration]
 published: true
 sitemap: true
 ---
@@ -17,5 +17,9 @@ sitemap: true
 | App Store Link | https://itunes.apple.com/my/app/lkim-rhi/id1312734532?mt=8 |
 
 Worked in a team to design and develop a price check mobile app.
+
+![Mockup design of LKIM Fish Price app](https://blog.rudzainy.my/blog/wp-content/uploads/2022/01/Screenshot-2022-01-27-at-3.11.13-PM-1-1024x445.jpg)
+
+![UI sketches fo LKIM Fish Price app](https://blog.rudzainy.my/blog/wp-content/uploads/2022/01/Screenshot-2022-01-27-at-3.14.21-PM-1024x668.jpg)
 
 ![Development team](https://blog.rudzainy.my/blog/wp-content/uploads/2023/21462649_10155102992728460_2795738114477470255_n.jpg)

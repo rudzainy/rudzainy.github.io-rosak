@@ -1,0 +1,12 @@
+---
+---
+
+@import 'main';
+
+/* append your custom style below */
+
+// This sets preview image position to top.
+// By default, content-fit will default to centering the image.
+.preview-img img {
+    object-position: top;
+}

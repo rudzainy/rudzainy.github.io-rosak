@@ -10,8 +10,10 @@ published: true
 sitemap: true
 ---
 
-| Project | Quora Clone |
-| Responsibilities | Design & code |
+| Project | A clone of quora.com |
+| Responsibilities | Design & build |
 | Technology Stack | Ruby, HTML, CSS, JavaScript |
 | Year | 2016 | 
 | GitHub | [View Source Code](https://github.com/rudzainy/quora-clone) |
+
+This web app was built as part of a curriculum of Full-stack Web Development Bootcamp at Next Academy.

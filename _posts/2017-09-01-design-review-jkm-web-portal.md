@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Design Review: JKM Web Portal'
-date: 2008-09-01 11:27 +0800
+date: 2017-09-01 11:27 +0800
 description:
 image: https://res.cloudinary.com/rudzainy/image/upload/v1687147294/jkm-new_dukca5.png
 category: Work
@@ -12,17 +12,17 @@ sitemap: true
 
 ![Wireframe](/assets/img/portfolio/jkm.jpg)
 
-In 2008, I joined a local web development company as a web designer. I was just starting out in my career and had only just begun to explore the world of web design anddevelopment. My general role was to design UI and convert it to HTML & CSS. At that time, web development using open source CMS was on the rise in Malaysia. PHP and WAMP/LAMP stacks were popular backend solutions, and Joomla! 1.5 was the most commonly used content management system (CMS). The company did not have any designers on staff, so I worked closely with the developers to create their website and create mockups for each page.
+In 2008, a younger me joined a local web development company as a web designer. He was just starting out in his career and had only just begun to explore the world of web design and development. His general role was to design UI and convert it to HTML & CSS. At that time, web development using open source CMS was on the rise in Malaysia. PHP and WAMP/LAMP stacks were popular backend solutions, and Joomla! 1.5 was the most commonly used content management system (CMS). The company did not have any other designers on staff, so he worked closely with the developers and other stakeholders to design and build the web portal.
 
 ## Introduction
 
-The Social Welfare Department (JKM) website was redesigned in 2008. The goal of the redesign was to improve the usability and accessibility of the website. This report will review the design of the JKM website and provide feedback on how it can be improved.
+The Social Welfare Department (JKM) web portal was redesigned in 2008. The goal of the redesign was to improve the usability and accessibility of the website. This report will review the design of the JKM website and provide feedback on how it can be improved.
 
 ## Background
 
-The JKM website was first launched in 1999. The website was originally designed to provide information about the services offered by JKM. The website was not designed with usability or accessibility in mind. As a result, the website was difficult to use and did not meet the needs of all users.
+The JKM website was first launched in 1999. The website was originally designed to provide information about the services offered by JKM. The website was minimally designed with usability or accessibility in mind. We had a few guidelines from MAMPU which  As a result, the website was difficult to use and did not meet the needs of all users.
 
-In 2008, the JKM website was redesigned. The redesign was led by a team of web designers and developers. The team worked closely with JKM staff to understand the needs of the users. The team also conducted usability testing to ensure that the new design was easy to use.
+In 2008, I did an exercise to re-design the JKM web portal.
 
 ## Design
 
@@ -42,6 +42,8 @@ The new design of the JKM website is a significant improvement over the previous
 
 ## Recommendations
 
+![Sketch of proposed solution for JKM web portal review](https://blog.rudzainy.my/blog/wp-content/uploads/2022/01/Screenshot-2022-01-27-at-2.47.23-PM-1024x774.jpg)
+
 I recommend that the JKM website be updated to address the following issues:
 
 ### Accessibility
@@ -57,3 +59,6 @@ The website should be made more engaging by using more images and videos.
 The website should be updated more frequently with new content.
 
 I believe that these changes will make the JKM website even more user-friendly and accessible.
+
+
+![Low fedility design of proposed solution for JKM web portal review](https://blog.rudzainy.my/blog/wp-content/uploads/2019/05/jkm-new-462x1024.png)
