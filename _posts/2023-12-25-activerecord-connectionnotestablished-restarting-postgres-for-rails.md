@@ -10,7 +10,7 @@ published: true
 sitemap: true
 ---
 
-Last night I encountered this error message while building [Ranting](posts/2023-12-23-ranting):
+Last night I encountered this error message while building [Ranting](/posts/2023-12-23-ranting):
 
 ```bash
 ActiveRecord::ConnectionNotEstablished (connection to server on socket "/tmp/.s.PGSQL.5432" failed: No such file or directory
