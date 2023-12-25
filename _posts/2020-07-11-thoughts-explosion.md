@@ -10,4 +10,4 @@ published: true
 sitemap: true
 ---
 
-[View on Instagram](https://www.instagram.com/p/CCeIkfJpvpi/)
+[View on Instagram](https://www.instagram.com/p/CCeIkfJpvpi/){:target="_blank"}{:rel="noopener noreferrer"}
