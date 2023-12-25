@@ -19,10 +19,10 @@ ActiveRecord::ConnectionNotEstablished (connection to server on socket "/tmp/.s.
 ```
 
 
-I vaguely remember encountering this error message a while back. I'm not certain what actually caused the error, however I figured restatrting Postgress would solve this. Here's how to do it.
+I vaguely remember encountering this error message a while back 🤔. I'm not certain what actually caused the error, however I figured restatrting Postgress would solve this. Here's how to do it.
 
 
-## Look for Postgres installation
+## 1. Look for Postgres Installation
 
 My current setup has Postgres installed with Homebrew.
 
@@ -38,13 +38,15 @@ My current setup has Postgres installed with Homebrew.
 
 Seems that I have `postgresql@14` installed.
 
+## 2. Restart Postgres
+
 Now, navigate to this folder:
 
 ```bash
   $ cd /usr/local/var
 ```
 
-Look for the same Postgres installation folder as in Homebrew above.
+Look for the same Postgres installation folder as in Homebrew list above.
 
 ```bash
   $ ls
@@ -53,6 +55,10 @@ Look for the same Postgres installation folder as in Homebrew above.
 ```
 
 `cd` into the Postgres folder and look for a file called `postmaster.pid`.
+
+```bash
+  $ cd postgresql@14 
+```
 
 ```bash
   $ ls
@@ -65,7 +71,7 @@ Look for the same Postgres installation folder as in Homebrew above.
   
 ```
 
-Next, backup the `postmaster.pid` file to another folder (eg. the Desktop folder) and restart Postgres.
+Found it! Next, backup the `postmaster.pid` file to another folder (eg. the Desktop folder) and restart Postgres.
 
 ```bash
   $ mv postmaster.pid ~/Desktop
@@ -78,4 +84,8 @@ Next, backup the `postmaster.pid` file to another folder (eg. the Desktop folder
   ==> Successfully started `postgresql@14` (label: homebrew.mxcl.postgresql@14)
 ```
 
-Run Rails server again and that should resolve the error. It should be safe now to delete the `postmaster.pid` that was backed up earlier.
+## 3. Move On with Life
+
+Run Rails server again and that should resolve the error. 
+
+It should be safe now to delete the `postmaster.pid` that was backed up earlier.
