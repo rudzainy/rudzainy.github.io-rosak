@@ -4,8 +4,8 @@ title: JKM Web Portal
 date: 2008-09-01 15:25 +0800
 description:
 image: /assets/img/portfolio/jkm.jpg
-category:
-tags:
+category: Work
+tags: [web]
 published: true
 sitemap: true
 ---

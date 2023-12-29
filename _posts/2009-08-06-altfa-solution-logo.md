@@ -4,8 +4,8 @@ title: Altfa Solution Logo
 date: 2009-08-06 11:52 +0800
 description:
 image: /assets/img/portfolio/jkm.jpg
-category:
-tags:
+category: Work
+tags: [logo]
 published: false
 sitemap: false
 ---

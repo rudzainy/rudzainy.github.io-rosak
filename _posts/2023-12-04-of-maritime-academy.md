@@ -4,8 +4,8 @@ title: Of Maritime Academy
 date: 2023-12-04 07:15 +0800
 description:
 image:
-category:
-tags:
+category: Balance
+tags: [writing,ai]
 published: false
 sitemap: false
 ---

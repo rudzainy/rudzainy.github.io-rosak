@@ -4,8 +4,8 @@ title: Kontact Web CRM System
 date: 2016-09-01 10:22 +0800
 description:
 image: https://blog.rudzainy.my/blog/wp-content/uploads/2019/05/kontact-app-1.png
-category:
-tags:
+category: Work
+tags: [web]
 published: true
 sitemap: true
 ---

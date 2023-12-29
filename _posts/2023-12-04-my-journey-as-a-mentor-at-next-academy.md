@@ -4,8 +4,8 @@ title: My Journey as a Mentor at NEXT Academy
 date: 2023-12-04 07:18 +0800
 description:
 image:
-category:
-tags:
+category: Balance
+tags: [writing,ai]
 published: false
 sitemap: false
 ---
