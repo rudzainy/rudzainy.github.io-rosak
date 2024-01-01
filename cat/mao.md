@@ -11,6 +11,18 @@ title: The Door
   </form>
 </div>
 <script>
+var firstTimeUrl = document.URL;
+  document.addEventListener('change', function() {
+  var currentPageUrl = document.URL;
+  var url = new URL(currentPageUrl);
+  var isVariantUrl = url.searchParams.get("answer");
+  currentPageUrl = isVariantUrl ? currentPageUrl :isVariantUrl;
+    if(currentPageUrl && firstTimeUrl != currentPageUrl) {
+      firstTimeUrl = currentPageUrl;
+      alert('variant_id: '+isVariantUrl+'')
+    }
+  });
+
   const ansArray = ["true","correct","ya","betul","yes","yup","yups","👍"]
   const queryString = window.location.search
   console.log("queryString = \"" + queryString + "\"")
