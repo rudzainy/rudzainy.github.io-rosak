@@ -12,14 +12,14 @@ title: The Door
 </div>
 <script>
   const ansArray = ["true","correct","ya","betul","yes","yup","yups","👍"]
-  const queryString = window.location.search
+  let queryString = window.location.search
   alert("queryString = \"" + queryString + "\"")
   const ansRegex = /[^\?answer=]/
   if(ansRegex.test(queryString)) {
-    const ans = queryString.substr(queryString.indexOf("=") + 1);
+    let ans = queryString.substr(queryString.indexOf("=") + 1);
     alert("ans = \"" + ans + "\"")
     if(ansArray.includes(ans.toLowerCase())) {
-      const box = document.getElementById('box')
+      let box = document.getElementById('box')
       box.innerHTML = "👀<br /><ol><li><a href='#'>Link 1</a></li><li><a href='#'>Link 1</a></li></ol>"
     }
   }
