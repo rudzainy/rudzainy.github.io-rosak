@@ -15,7 +15,18 @@ Title: Building a Maritime Academy: A Journey of Growth and Development
 
 Introduction:
 
-From September 2009 to July 2012, I had the opportunity to work as an HRA/Business Development Executive/Teaching Assistant at the Maritime Education & Training Academy (META), located within the Maritime College (MARCO) in Selangor, Malaysia. During this period, I was part of a dedicated team that embarked on an exciting mission to establish a maritime academy in Seri Manjung, Perak, and Rawang, Selangor. This article delves into my experiences and the significant responsibilities I undertook during this time, including curriculum development, liaising with government authorities, managing day-to-day operations, and utilizing ship simulators as educational tools.
+From September 2009 to July 2012, I had the opportunity to be part of a dedicated team that embarked on an exciting mission to establish a new maritime academy in Malaysia. The objective of the new venture was to train and promote seaman as a good career prospect for Malaysians. 
+
+My official job title was as Human Resource & Administration Executive, however my day-to-day job scope includes:
+
+- preparing research and paperworks for business development and marketing
+- personal assistant to the CEO
+- teaching assistant to lecturers (which includes experienced Captains, Chief Engineers, as well as other senior and junior officers and engineers)
+- liase with officials from the Maritime Department of Malaysia
+- represent the school in IMO conference
+- a general IT tasks
+
+The team ended up building two maritime training academies from scratch; namely Maritime Education & Training Academy (META) in Seri Manjung, Perak, and Maritime College (MARCO) in Selangor, Malaysia. I was part of a dedicated team that embarked on an exciting mission to establish a maritime academy in Seri Manjung, Perak, and Rawang, Selangor. This article delves into my experiences and the significant responsibilities I undertook during this time, including curriculum development, liaising with government authorities, managing day-to-day operations, and utilizing ship simulators as educational tools.
 
 Building the Academy: A Collaborative Effort
 
