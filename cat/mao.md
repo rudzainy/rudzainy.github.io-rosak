@@ -17,7 +17,7 @@ sitemap: false
   // alert("queryString = \"" + queryString + "\"")
   const ansRegex = /[^\?answer=]/
   if(ansRegex.test(queryString)) {
-    let ans = queryString.substr(queryString.indexOf("=") + 1);
+    let ans = queryString.substr(queryString.indexOf("=") + 1)
     // alert("ans = \"" + ans + "\"")
     if(ansArray.includes(ans.toLowerCase())) {
       let box = document.getElementById('box')
