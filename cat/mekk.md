@@ -1,7 +1,6 @@
 ---
 layout: page
 title: The Lock
-sitemap: false
 ---
 <div id="door">
 	<p>What is a four-letter word that has only one vowel in it.</p>
