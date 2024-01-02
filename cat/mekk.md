@@ -18,11 +18,11 @@ title: The Lock
   alert("queryString = \"" + queryString + "\"")
   const ansRegex = /[^\?answer=]/
   if(ansRegex.test(queryString)) {
-    const ans = queryString.substr(queryString.indexOf("=") + 1);
+    const ans = queryString.substr(queryString.indexOf("=") + 1)
     alert("ans = \"" + ans + "\"")
     if(ansArray.includes(ans.toLowerCase())) {
-      const box = document.getElementById('box')
-      box.innerHTML = "👀<br /><ol><li><a href='#'>Link 1</a></li><li><a href='#'>Link 1</a></li></ol>"
+      const door = document.getElementById('door')
+      door.innerHTML = "👀<br /><ol><li><a href='#'>Link 1</a></li><li><a href='#'>Link 1</a></li></ol>"
     }
   }
 </script>
