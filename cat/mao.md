@@ -11,7 +11,7 @@ title: The Door
   </form>
 </div>
 <script>
-  const ansArray = ["true","correct","ya","betul","yes","yup","yups","👍"];
+  const ansArray = ["true","correct","ya","betul","yes","yup","yups"];
   let queryString = window.location.search;
   const ansRegex = /\?answer=/;
   if(ansRegex.test(queryString)) {

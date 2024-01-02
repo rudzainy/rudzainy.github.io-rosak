@@ -13,7 +13,7 @@ title: The Lock
 </div>
 <div id="🏴‍☠️"></div>
 <script>
-  const ansArray = ["true","correct","ya","betul","yes","yup","yups","👍"];
+  const ansArray = ["true","correct","ya","betul","yes","yup","yups"];
   const queryString = window.location.search;
   alert("queryString = \"" + queryString + "\"");
   const ansRegex = /[^\?answer=]/;
