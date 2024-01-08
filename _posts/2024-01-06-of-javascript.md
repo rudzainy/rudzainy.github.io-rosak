@@ -19,7 +19,7 @@ I was learning HCI on the Web, jumping between fast-moving trains of different d
 My first encounter happened very early during my journey. I was looking for ways to animate stuff on a web page, when suddenly a wild JavaScript appear!
 
 I was young and impatient. 
-I sang to myself "Gotta catch 'em all!"
+I sang to myself "Gotta catch 'em all!" 
 
 I tried picking it up, but it was Super Ineffective!... 
 
