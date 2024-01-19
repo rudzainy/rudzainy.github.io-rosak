@@ -18,7 +18,7 @@ title: The Door
     let ans = queryString.substr(queryString.indexOf("=") + 1);
     if(ansArray.includes(ans.toLowerCase())) {
       let box = document.getElementById('box');
-      box.innerHTML = "👀<br /><ol><li><a href='#'>Link 1</a></li><li><a href='#'>Link 1</a></li></ol>";
+      box.innerHTML = "👀<br /><ol><li><a href='https://www.rudzainy.my/assets/Portfolio_Rudzainy.pdf'>Link 1</a></li><li><a href='#'>Link 1</a></li></ol>";
     }
   }
 </script>
