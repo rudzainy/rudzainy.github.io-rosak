@@ -12,9 +12,9 @@ title: The Door
 </div>
 <script>
   const ansArray = ["true","correct","ya","betul","yes","yup","yups","tepat","right","y","t","1"];
-  // Oh, you found this eh. You... hacker person you!  
   let hackering = () => {
-    jawaban = document.getElementById("answer").value
+    jawaban = document.getElementById("answer").value;
+    console.log(jawaban);
     if(ansArray.includes(jawaban.toLowerCase())) {
       const title = "The Door <i>is Opened!</i>";
       let webTitle = document.getElementsByClassName('dynamic-title')[0];
