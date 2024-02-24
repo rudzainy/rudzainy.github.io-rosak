@@ -6,8 +6,8 @@ description:
 image:
 category: Balance
 tags: [video games]
-published: false
-sitemap: false
+published: true
+sitemap: true
 ---
 
 Here are games that I have invested serious time in:
@@ -35,6 +35,7 @@ Here are games that I have invested serious time in:
   - Need for Speed: Underground 2
   - Need for Speed: Most Wanted
   - Ragnarok Online
+  - Sim City 3000
   - Sim City 4
   - Cities Skylines
   - Star Wars Knights of the Old Republic II: The Sith Lords
@@ -43,7 +44,8 @@ Here are games that I have invested serious time in:
   - The Legend of Zelda: A Link to the Past
   - The Legend of Zelda: Link's Awakening
   - Tetris
-  - 
+  - Crayon Shin Chan
+  - Dragon Ball
 4. PlayStation Portable
   - Crisis Core: Final Fantasy VII
 5. Nintendo DS

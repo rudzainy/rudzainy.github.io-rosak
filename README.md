@@ -1,4 +1,24 @@
-# Chirpy Starter
+# Personal website of Rudzainy Rahman
+
+These are some config doc stuff.
+
+## Frontmatter Values
+
+| key | value |
+| --- | --- |
+| layout | post |
+| title | Of Books |
+| date | 2024-01-03 10:01 +0800 |
+| description | |
+| image | |
+| category | ither |
+| tags | |
+| published | false |
+| sitemap | false |
+
+
+
+## Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
@@ -25,12 +45,12 @@ Jekyll site. The following is a list of targets:
 To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
 latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
 
-## Prerequisites
+### Prerequisites
 
 Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
 the basic environment. [Git](https://git-scm.com/) also needs to be installed.
 
-## Installation
+### Installation
 
 Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
 `USERNAME.github.io`, where `USERNAME` represents your GitHub username.
@@ -41,11 +61,11 @@ Then clone it to your local machine and run:
 $ bundle
 ```
 
-## Usage
+### Usage
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
-## License
+### License
 
 This work is published under [MIT][mit] License.
 

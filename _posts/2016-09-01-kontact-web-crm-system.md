@@ -19,4 +19,4 @@ A hobby project to build an online Customer Relationship Management System using
 
 
 I built this heat level indicator for each contact. It was supposed to indicate to the CRM users how *"hot"* is that particular contact by means of profiling.
-![Heat map](/assets/img/posts/Screenshot 2023-12-25 at 8.48.43 PM.png)
+![Heat map](/assets/img/posts/Screenshot_2023-12-25_at_8.48.43_PM.png)
