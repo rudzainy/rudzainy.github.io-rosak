@@ -52,6 +52,9 @@ google_site_verification: # fill in to your verification string
 google_analytics:
   id: G-FTQNJ379ZF
 
+goatcounter:
+  id: # fill in your Goatcounter ID
+
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
@@ -74,6 +77,9 @@ img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar:  /assets/img/favicons/apple-touch-icon.png
+# The URL of the site-wide social preview image used in SEO `og:image` meta tag.
+# It can be overridden by a customized `page.image` in front matter.
+social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -108,26 +114,18 @@ assets:
 
 pwa:
   enabled: true # the option for PWA feature
+  cache:
+    enabled: true # the option for PWA offline cache
+    # Paths defined here will be excluded from the PWA cache.
+    # Usually its value is the `baseurl` of another website that
+    # shares the same domain name as the current website.
+    deny_paths:
+      # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 13 # random odd prime number
 
 # The base URL of your site
 baseurl: ""
-
-jekyll_compose:
-  default_front_matter:
-    drafts:
-      description:
-      image:
-      category:
-      tags:
-    posts:
-      description:
-      image:
-      category:
-      tags:
-      published: false
-      sitemap: false
 
 # ------------ The following options are not recommended to be modified ------------------
 
