@@ -49,15 +49,15 @@ jobs:
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: "production"
-
+          
       - name: Test site
-       run: |
-         bundle exec htmlproofer _site \
-           \-\-disable-external=true \
-           \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
+        run: |
+          bundle exec htmlproofer _site \
+          \-\-disable-external=true \
+          \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 
       - name: Upload site artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v2
         with:
           path: "_site${{ steps.pages.outputs.base_path }}"
 
@@ -70,4 +70,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v3
