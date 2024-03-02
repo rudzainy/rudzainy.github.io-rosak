@@ -3,7 +3,7 @@ layout: post
 title: Users vs Corporations in Digital Communication
 date: 2023-12-04 07:21 +0800
 description:
-image: /assets/img/posts/felicia-buitenwerf-Qs_Zkak27Jk-unsplash.jpg
+image: /img/posts/felicia-buitenwerf-Qs_Zkak27Jk-unsplash.jpg
 category: Balance
 tags: [writing, ai]
 published: true

@@ -3,7 +3,7 @@ layout: post
 title: of Twitter
 date: 2023-12-25 19:55 +0800
 description: What Rudzainy thinks about the current Twitter situation
-image: /assets/img/posts/twitter-icon-square-logo-108D17D373-seeklogo.com.png
+image: /img/posts/twitter-icon-square-logo-108D17D373-seeklogo.com.png
 category: Balance
 tags: [thoughts]
 published: true

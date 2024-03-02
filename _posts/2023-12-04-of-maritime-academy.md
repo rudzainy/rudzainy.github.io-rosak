@@ -3,7 +3,7 @@ layout: post
 title: Of Maritime Academy
 date: 2023-12-04 07:15 +0800
 description: Building a Maritime Academy - A Journey of Growth and Development
-image: /assets/img/portfolio/Maritime/1.png
+image: /img/portfolio/Maritime/1.png
 category: Balance
 tags: [writing, ai, maritime]
 published: true

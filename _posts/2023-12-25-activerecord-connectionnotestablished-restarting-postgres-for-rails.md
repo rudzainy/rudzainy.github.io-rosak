@@ -3,7 +3,7 @@ layout: post
 title: 'ActiveRecord::ConnectionNotEstablished: Restarting Postgres for Rails'
 date: 2023-12-25 08:46 +0800
 description: How to resolve ActiveRecord ConnectionNotEstablished error by restarting Postgres for Rails.
-image: /assets/img/posts/Screenshot_2023-12-25_at_9.34.08_AM.png
+image: /img/posts/Screenshot_2023-12-25_at_9.34.08_AM.png
 category: Work
 tags: [rails, postgres, error]
 published: true

@@ -3,7 +3,7 @@ layout: post
 title: Altfa Solution Logo
 date: 2009-08-06 11:52 +0800
 description:
-image: /assets/img/portfolio/draft3.jpg
+image: /img/portfolio/draft3.jpg
 category: Work
 tags: [logo]
 published: true

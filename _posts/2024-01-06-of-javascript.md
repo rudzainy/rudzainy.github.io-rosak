@@ -3,7 +3,7 @@ layout: post
 title: of JavaScript
 date: 2024-01-06 08:48 +0800
 description: A story of Rudzainy's journey learning JavaScript
-image: /assets/img/posts/EP013_Pokedex_de_ash.webp
+image: /img/posts/EP013_Pokedex_de_ash.webp
 category: [Life]
 tags: [javascript, hci]
 published: true
