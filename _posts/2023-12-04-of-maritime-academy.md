@@ -2,12 +2,12 @@
 layout: post
 title: Of Maritime Academy
 date: 2023-12-04 07:15 +0800
-description:
-image:
+description: Building a Maritime Academy - A Journey of Growth and Development
+image: /assets/img/portfolio/Maritime/1.png
 category: Balance
-tags: [writing,ai]
-published: false
-sitemap: false
+tags: [writing, ai, maritime]
+published: true
+sitemap: true
 ---
 
 
@@ -26,7 +26,7 @@ My official job title was as Human Resource & Administration Executive, however 
 - represent the school in IMO conference
 - a general IT tasks
 
-The team ended up building two maritime training academies from scratch; namely Maritime Education & Training Academy (META) in Seri Manjung, Perak, and Maritime College (MARCO) in Selangor, Malaysia. I was part of a dedicated team that embarked on an exciting mission to establish a maritime academy in Seri Manjung, Perak, and Rawang, Selangor. This article delves into my experiences and the significant responsibilities I undertook during this time, including curriculum development, liaising with government authorities, managing day-to-day operations, and utilizing ship simulators as educational tools.
+The team ended up building two maritime training academies from scratch; namely Maritime Education & Training Academy (META) in Seri Manjung, Perak, and Maritime College (MARCO) in Selangor, Malaysia. This article delves into my experiences and the significant responsibilities I undertook during this time, including curriculum development, liaising with government authorities, managing day-to-day operations, and utilizing ship simulators as educational tools.
 
 Building the Academy: A Collaborative Effort
 
@@ -34,11 +34,11 @@ Creating a maritime academy from scratch was a challenging yet rewarding endeavo
 
 Curriculum Development: Nurturing Seamanship Skills
 
-One of my key responsibilities was to develop the syllabus for the basic seamanship program. This involved carefully structuring the course content to ensure comprehensive coverage of essential skills and knowledge required for a successful maritime career. Collaborating with experienced industry professionals, we created a curriculum that encompassed topics such as navigation, first aid, vessel operations, safety procedures, and maritime regulations. We also collaborated with the Fire Department
+One of my key responsibilities was to develop the syllabus for the basic seamanship program. This involved carefully structuring the course content to ensure comprehensive coverage of essential skills and knowledge required for a successful maritime career. Collaborating with experienced industry professionals, we created a curriculum that encompassed topics such as navigation, first aid, vessel operations, safety procedures, and maritime regulations. We also collaborated with the Fire Department for basic miritime firefighting training.
 
 Liaising with Marine Department of Malaysia: Accreditation and Reporting
 
-Ensuring the academy's programs met the necessary standards and received proper accreditation was crucial. In close collaboration with officials from the Marine Department of Malaysia, I facilitated the accreditation process, ensuring compliance with regulatory guidelines. Regular communication with the authorities included reporting on student progress, course evaluations, and other official matters.
+Ensuring the academy's programs met the necessary standards and received proper accreditation was crucial. In close collaboration with officials from the Marine Department of Malaysia, I work in a team that facilitated the accreditation process, ensuring compliance with regulatory guidelines. Regular communication with the authorities included reporting on student progress, course evaluations, and other official matters.
 
 Managing Day-to-Day Operations: Smooth Functioning of the Academy
 
@@ -46,7 +46,7 @@ Efficient management of the academy's day-to-day operations was essential for it
 
 Supervising and Coordinating Student Activities: Fostering Growth and Engagement
 
-As a teaching assistant, I had the privilege of working closely with students. I took on the responsibility of supervising and coordinating their activities, encouraging their participation in extracurricular events and fostering a sense of camaraderie among them. By organizing seminars, workshops, and team-building exercises, we aimed to cultivate holistic growth and enhance their overall learning experience.
+As a teaching assistant, I had the privilege of working closely with students. I took on the responsibility of supervising and coordinating their activities, encouraging their participation in extracurricular events and fostering a sense of camaraderie among them. By organizing talks, workshops, and activity-based team-building exercises, we aimed to cultivate holistic growth and enhance their overall learning experience.
 
 Utilizing Ship Simulators: Bridging Theory and Practice
 
@@ -54,4 +54,6 @@ One of the most innovative tools we employed to enhance the learning process was
 
 Conclusion:
 
-The years spent as an HRA/Business Development Executive/Teaching Assistant at META and MARCO were transformative and enriching. Working in a dedicated team, we played a vital role in establishing a maritime academy that aimed to equip students with the necessary skills and knowledge to excel in the industry. From curriculum development and liaising with government officials to managing day-to-day operations and utilizing ship simulators, each responsibility contributed to the growth and success of the academy. This experience not only shaped my professional journey but also highlighted the importance of collaboration, innovation, and dedication in the field of maritime education.
+After all the ups and downs, I consider the years spent as an HRA/ Business Development Executive/ Teaching Assistant/ IT Generalist at META and MARCO were transformative and enriching. Working in a dedicated team, we played a vital role in establishing a maritime academy that aimed to equip students with the necessary skills and knowledge to excel in the industry. From curriculum development and liaising with government officials to managing day-to-day operations and utilizing ship simulators, each responsibility contributed to the growth and success of the academy. 
+
+This experience not only shaped my professional journey but also highlighted the importance of collaboration, innovation, and dedication in the field of maritime education.

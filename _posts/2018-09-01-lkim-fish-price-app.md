@@ -5,7 +5,7 @@ date: 2018-09-01 08:30 +0800
 description: Mobile app for Lembaga Kemajuan Ikan Malaysia
 image: https://blog.rudzainy.my/blog/wp-content/uploads/2022/01/Screenshot-2022-01-27-at-3.11.13-PM-1-2048x890.jpg
 category: Work
-tags: [react native,uiux,collaboration]
+tags: [react native, uiux, collaboration]
 published: true
 sitemap: true
 ---

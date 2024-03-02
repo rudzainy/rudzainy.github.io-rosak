@@ -127,6 +127,21 @@ paginate: 13 # random odd prime number
 # The base URL of your site
 baseurl: ""
 
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      description:
+      image:
+      category:
+      tags:
+    posts:
+      description:
+      image:
+      category:
+      tags:
+      published: false
+      sitemap: false
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:

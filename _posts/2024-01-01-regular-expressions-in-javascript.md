@@ -5,7 +5,7 @@ date: 2024-01-01 19:44 +0800
 description: This is a quick guide on JavaScript regular expressions.
 image:
 category: Work
-tags: [javascript,regex]
+tags: [javascript, regex]
 published: false
 sitemap: false
 ---

@@ -5,7 +5,7 @@ date: 2009-08-24 15:51 +0800
 description: A parody adveritisement for TM
 image: https://blog.rudzainy.my/blog/wp-content/uploads/2023/10400376_132225319544_8304899_n.jpg
 category: Life
-tags: [graphic design,advertisement,parody]
+tags: [graphic design, advertisement, parody]
 published: true
 sitemap: true
 ---

@@ -5,7 +5,7 @@ date: 2022-09-01 04:20 +0800
 description: While designing a flight booking app, I needed to find resources for flipboards similar to the ones used in airports. The only one I could find only had flip-down numbers, so I decided to create my own.
 image: https://blog.rudzainy.my/blog/wp-content/uploads/2023/flip-number-file-cover.png
 category: Work
-tags: [design,figma]
+tags: [design, figma]
 published: true
 sitemap: true
 ---

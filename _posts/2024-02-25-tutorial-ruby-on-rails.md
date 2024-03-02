@@ -5,7 +5,7 @@ date: 2024-02-25 18:51 +0800
 description:
 image:
 category: Work
-tags: [ruby,rails,tutorial]
+tags: [ruby, rails, tutorial]
 published: false
 sitemap: false
 ---

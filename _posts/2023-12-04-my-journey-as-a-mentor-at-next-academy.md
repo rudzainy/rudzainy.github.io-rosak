@@ -2,10 +2,10 @@
 layout: post
 title: My Journey as a Mentor at NEXT Academy
 date: 2023-12-04 07:18 +0800
-description:
+description: My teaching and learning experience in Next Academy
 image:
 category: Balance
-tags: [writing,ai]
+tags: [writing, ai]
 published: false
 sitemap: false
 ---

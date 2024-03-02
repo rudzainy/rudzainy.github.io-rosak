@@ -5,7 +5,7 @@ date: 2022-05-18 09:44 +0800
 description:
 image:
 category: Life
-tags: [ruby,gag]
+tags: [ruby, gag]
 published: true
 sitemap: true
 ---
