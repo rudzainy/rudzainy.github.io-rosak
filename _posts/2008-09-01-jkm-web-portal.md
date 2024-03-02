@@ -3,7 +3,7 @@ layout: post
 title: JKM Web Portal
 date: 2008-09-01 15:25 +0800
 description:
-image: /img/portfolio/jkm.jpg
+image: /assets/img/portfolio/jkm.jpg
 category: Work
 tags: [web]
 published: true

@@ -3,7 +3,7 @@ layout: post
 title: 'Teng-Quora-K: A Quora Clone'
 date: 2016-07-23 16:33 +0800
 description: An exercise of building a Quora clone using Ruby's Sinatra framework.
-image: /img/portfolio/tengquorak-app.png
+image: /assets/img/portfolio/tengquorak-app.png
 category: [Work]
 tags: [ruby, sinatra]
 published: true

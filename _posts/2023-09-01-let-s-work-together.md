@@ -3,7 +3,7 @@ layout: post
 title: Let's work together!
 date: 2023-09-01 17:25 +0800
 description: Whether you're looking for a collaborator who can breathe life into your digital vision, or simply someone who'll bring a spark of creativity to your team, here are 7 reasons why working with me might just be the perfect fit.
-image: /img/posts/profile.jpg
+image: /assets/img/posts/profile.jpg
 category: Work
 tags: [collaboration]
 published: true
